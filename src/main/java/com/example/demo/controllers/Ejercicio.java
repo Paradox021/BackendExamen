@@ -32,8 +32,8 @@ public class Ejercicio {
         "<br/>/letradni/XXXX  para calcular leta del dni<br/>"+
         "<br/>/coincidencias?nombre1=XXXX&nombre2=XXXX  para contar letras coincidentes de dos palabras<br/>"+
         "<br/>/habitantes/XXXX  para ver los habitantes de un pais/ciudad"+
-        "<br/>/guarda?nombre=XXXX&nota=XXXX  para registrar un alumno en la bbdd<br/>"+
-        "<br/>/listar para  listar los alumnos registrados en la bbdd<br/>";
+        "<br/>/guarda?nombre=XXXX & nota=XXXX  para registrar un alumno en la bbdd<br/>"+
+        "<br/>/listar para listar los alumnos registrados en la bbdd<br/>";
     }
     
     // http://localhost:8080/letraDni/????
